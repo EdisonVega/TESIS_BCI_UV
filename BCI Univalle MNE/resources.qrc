@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="iconos">
+    <file>iconos/CARGAR.svg</file>
+    <file>iconos/PLAY.svg</file>
+    <file>iconos/GUARDAR.svg</file>
+    <file>iconos/RESET.svg</file>
+    <file>iconos/INFO.svg</file>
+    <file>iconos/STOP.svg</file>
+  </qresource>
+  <qresource prefix="imagenes">
+    <file>imagenes/IM.svg</file>
+    <file>imagenes/LOGO_PSI_COMPLETO.png</file>
+    <file>imagenes/LOGO_UV_COMPLETO.jpg</file>
+  </qresource>
+</RCC>
